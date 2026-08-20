@@ -184,7 +184,7 @@ Performance graphs are available in the **Results** folder.
 
 **Sameer Ahmed**
 
-Student | BS Computer Science
+Student | BS Data Science
 
 ---
 
